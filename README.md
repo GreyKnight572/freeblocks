@@ -2,11 +2,21 @@
 
 A free and open source 3D block game
 
-- Website: <http://freeblocks.org>
-- Google Drive: <https://drive.google.com/drive/u/2/folders/1Ih3kLTrPdH0gSsNvHqwQ96ZzTYPcttuI>
-- Forums: <https://github.com/GreyKnight572/freeblocks/discussions>
-- Create a Bug Report or Feature Request: <https://github.com/GreyKnight572/freeblocks/issues/new/choose>
-- Create a Pull Request: <https://github.com/GreyKnight572/freeblocks/compare>
+Copyright (C) 2025  GreyKnight572
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License,
+version 2, as published by the Free Software Foundation.
+
+## Public Resources
+
+- [Website](http://freeblocks.org) (freeblocks.org)
+- [Google Drive](https://drive.google.com/drive/u/2/folders/1Ih3kLTrPdH0gSsNvHqwQ96ZzTYPcttuI)
+- [Forums](https://github.com/GreyKnight572/freeblocks/discussions) (GitHub)
+- [Bug Reports & Feature Requests](https://github.com/GreyKnight572/freeblocks/issues/new/choose) (GitHub)
+- [Vulnerability Reports](https://github.com/GreyKnight572/freeblocks/security/advisories/new) (GitHub)
+- [Patreon Page](https://patreon.com/FreeBlocks) (FreeBlocks)
+- [YouTube Channel](https://www.youtube.com/@FreeBlocksGame) (FreeBlocksGame)
 
 ## Mission Statement
 
